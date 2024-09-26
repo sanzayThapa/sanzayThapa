@@ -5,15 +5,6 @@
   Innovative Tech Enthusiast & Lifelong Learner from
 </h3>
 
-<style>
-  @keyframes textAnimation {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-</style>
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
