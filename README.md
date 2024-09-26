@@ -15,7 +15,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanzayThapa&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzayThapa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![snake animation](https://github.com/<seu sanzayThapa>/<seu sanzayThapa>/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake2.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanzayThapa&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
