@@ -1,7 +1,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm Sanzay Thapa</h1>
-<h3 align="center">Innovative Tech Enthusiast & Lifelong Learner from Nepal</h3>
+<h3 align="center" style="color: blue; animation: textAnimation 2s infinite;">
+  Innovative Tech Enthusiast & Lifelong Learner from
+</h3>
+
+<style>
+  @keyframes textAnimation {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
