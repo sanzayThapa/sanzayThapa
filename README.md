@@ -2,8 +2,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sanzay Thapa</h1>
 <h3 align="center">Innovative Tech Enthusiast & Lifelong Learner from Nepal</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkzMWJ3dnE4cTdiN2pjamhjZW9wbWN3NDlwODc2czRkOXJqZ3dhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 # 💫 About Me:
 🔭 I’m currently working on Multi-Vendor Ecommerce Website<br>🌱 I’m currently learning Next JS<br>💬 Ask me about Python, DRF, React, WordPress, Linux<br>👨‍💻 All of my projects are available at https://sanzaythapa.com.np/<br>📄 Know about my experiences https://sanzaythapa.com.np/<br>📫 How to reach me sanzaythapa9860@gmail.com<br>⚡ Fun fact Life is Fun
 
