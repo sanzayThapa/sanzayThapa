@@ -47,12 +47,7 @@
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanzayThapa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanzayThapa&theme=nightowl&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzayThapa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
